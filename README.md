@@ -8,5 +8,6 @@ _TD2_
 * Timothée - Développeur Back
 * Louis Développeur Back
 
-  ### Lien
-  * [Lien pour la gestion de projet](https://app.clickup.com/9012512638/v/li/901205844766) 
+### Lien vers la gestion de projet
+* [Lien pour la gestion de projet](https://app.clickup.com/9012512638/v/li/901205844766) 
+  
