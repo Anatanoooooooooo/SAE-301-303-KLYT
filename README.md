@@ -1,7 +1,7 @@
 # SAE-301-303-KLYT
 
 ## Membres du groupe
-_TD2_ _Groupe G3_
+_TD2_ - _Groupe G3_
 
 * Kilyann - Chef de projet
 * Ylan - Développeur Front
