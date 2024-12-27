@@ -1,4 +1,4 @@
-const RCSVF = './SAE-301-303-KLYT/fichier/csv/donnee.csv'; // Remplacez par le chemin de votre fichier CSV
+const RCSVF = './fichier/csv/donnee.csv'; // Remplacez par le chemin de votre fichier CSV
 
 d3.dsv(";", RCSVF).then(data => {
 
