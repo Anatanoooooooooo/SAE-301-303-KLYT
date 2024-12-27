@@ -9,5 +9,11 @@ _TD2_
 * Louis Développeur Back
 
 ### Lien vers la gestion de projet
-* [Lien pour la gestion de projet](https://app.clickup.com/9012512638/v/li/901205844766) 
-  
+* [Lien pour la gestion de projet](https://docs.google.com/document/d/1JaFwPhuZbUzCGFzK4dZ75tG-1MoBLAszoyxJ0Cg_Mbc/edit?usp=sharing)
+
+### Update de la SAE
+27/12/2024
+
+* Site en ligne
+* Système de filtre disponible (avec des bugs)
+* Graphique à améliorer 
