@@ -1,0 +1,27 @@
+body{
+    background-color: #193200;
+    padding-top:0px
+}
+.mybody{
+   height: 100%;
+}
+
+.tri{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 200px;
+}
+
+select,img{
+    border-radius: 25px;
+    background-color: #5eaa3f;
+    width: 100%;
+    font-size: 80%;
+    text-align: center;
+    font-weight: 600;
+}
+
+h4, h5, h6{
+    text-align: center;
+}
