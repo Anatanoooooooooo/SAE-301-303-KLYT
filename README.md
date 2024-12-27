@@ -1,15 +1,17 @@
 # SAE-301-303-KLYT
 
 ## Membres du groupe
-_TD2_
+_TD2_ _Groupe G3_
 
 * Kilyann - Chef de projet
 * Ylan - Développeur Front
 * Timothée - Développeur Back
 * Louis Développeur Back
 
-### Lien vers la gestion de projet
+### Lien de la SAE
 * [Lien pour la gestion de projet](https://docs.google.com/document/d/1JaFwPhuZbUzCGFzK4dZ75tG-1MoBLAszoyxJ0Cg_Mbc/edit?usp=sharing)
+* [Lien pour le figma](https://www.figma.com/design/gc6OVyyYEwCCqlyPnVG5yh/SAE-301-303?t=DF1eGBFL6UGnVouI-1)
+* [Lien pour l'analyse des données](https://docs.google.com/document/d/17fP9ji4ilPfVKCjbeIqXxdBHLUKcvvdzskJyPir4lBM/edit?usp=sharing)
 
 ### Update de la SAE
 27/12/2024
